@@ -1,8 +1,8 @@
 # Dokumentasi
 <img src="img/Screenshot_20211106-131841_Termux.jpg" alt="dokumentasi" />
 # Info
-Tools convert cookies facebook menjadi token facebook.
-# cara install
+Tools convert ```cookies facebook menjadi token``` facebook.
+# Cara install
 ```CMD
 $ pkg install python
 $ pkg install git
