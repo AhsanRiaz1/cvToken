@@ -1,5 +1,5 @@
 # Dokumentasi
-<img src="Screenshot_20211106-134305_Termux.jpg" alt="dokumentasi"></img>
+<img src="img/Screenshot_20211106-134305_Termux.jpg" alt="dokumentasi"></img>
 # Info
 Tools convert ```cookies facebook menjadi token``` facebook.
 # Cara install
