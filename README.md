@@ -1,7 +1,5 @@
 # Dokumentasi
-```
-<html><img src="img/Screenshot_20211106-131841_Termux.jpg" alt="dokumentasi" /></html>
-```
+<img src="img/Screenshot_20211106-131841_Termux.jpg" alt="dokumentasi" />
 # Info
 Tools convert cookies facebook menjadi token facebook.
 # cara install
