@@ -8,7 +8,7 @@ $ git clone https://github.com/Latip176/cvToken
 ```
 # cara menjalankan
 ketik ```python cv.py --help``` untuk help, dan jika
-ingin conver silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
+ingin convert silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
 # website, blog, dan social media
 ```
 website : <html><a href="https://latip176.my.id/">https://latip176.my.id/</a>
