@@ -8,6 +8,7 @@ $ pkg install python
 $ pkg install git
 $ git clone https://github.com/Latip176/cvToken
 $ cd cvToken
+$ pip install requests
 ```
 # Cara menjalankan
 <img src="img/Screenshot_20211106-143131_Termux.jpg" alt="tools help"></img>
