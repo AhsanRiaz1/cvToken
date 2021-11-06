@@ -1,21 +1,26 @@
-# info
+# Dokumentasi
+```html
+<img src="img/1.jpg" alt="dokumentasi">
+```
+# Info
 Tools convert cookies facebook menjadi token facebook.
 # cara install
 ```CMD
 $ pkg install python
 $ pkg install git
 $ git clone https://github.com/Latip176/cvToken
+$ cd cvToken
 ```
-# cara menjalankan
-ketik ```python cv.py --help``` untuk help, dan jika
+# Cara menjalankan
+ketik ```python cv.py --help``` untuk menampilkan help, dan jika
 ingin convert silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
-# website, blog, dan social media
+# Website, blog, dan social media
 ```
 website : <html><a href="https://latip176.my.id/">https://latip176.my.id/</a>
 blogspot: <html><a href="https://blog.latip176.my.id/">https://blog.latip176.my.id/</a>
 facebook: <html><a href="https://facebook.com/latip176.my.id/">facebook latif</a></html>
 ```
-# terima kasih kepada
+# Terima kasih kepada
 ```
 - XNSCODE TEAM
 ```
