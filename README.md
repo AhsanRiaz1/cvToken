@@ -1,5 +1,5 @@
 # Dokumentasi
-<img src="img/Screenshot_20211106-131841_Termux.jpg" alt="dokumentasi"></img>
+<img src="Screenshot_20211106-134305_Termux.jpg" alt="dokumentasi"></img>
 # Info
 Tools convert ```cookies facebook menjadi token``` facebook.
 # Cara install
@@ -10,6 +10,7 @@ $ git clone https://github.com/Latip176/cvToken
 $ cd cvToken
 ```
 # Cara menjalankan
+<img src="" alt="tools help"></img>
 ketik ```python cv.py --help``` untuk menampilkan help, dan jika
 ingin convert silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
 # Website, blog, dan social media
