@@ -19,6 +19,4 @@ ingin convert silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
 ```blogspot:``` <a href="https://blog.latip176.my.id/">https://blog.latip176.my.id/</a>
 ```facebook:``` <a href="https://facebook.com/latip176.my.id/">facebook latif</a>
 # Terima kasih kepada
-```
 - XNSCODE TEAM
-```
