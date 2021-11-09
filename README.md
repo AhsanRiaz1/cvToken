@@ -12,7 +12,7 @@ $ pip install requests
 ```
 # Cara menjalankan
 <img src="img/Screenshot_20211106-143131_Termux.jpg" alt="tools help"></img>
-ketik ```python cv.py --help``` untuk menampilkan help, dan jika
+ketik ```python cv.py --help``` untuk menampilkan bantuan, dan jika
 ingin convert silahkan ketik ```python cv.py -cv ("cookies facebook kamu")```
 # Website, blog, dan social media
 ```website :``` <a href="https://latip176.my.id/">https://latip176.my.id/</a>
